@@ -6,8 +6,8 @@ Criando um projeto em branco, onde deverá conter as seguintes páginas
 
 - index.html
 - contato.html 
-- diretório(pasta) com o nome assets.
-Dentro de assets:
+- diretório(pasta) com o nome files.
+Dentro de files:
 * adicionar 2 imagens quaisquer 
 * criar um arquivo chamado imagens.html
 
